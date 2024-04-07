@@ -1,0 +1,102 @@
+<mxfile host="65bd71144e">
+    <diagram id="8DvNoXrn3jh-jKTa79yE" name="第1頁">
+        <mxGraphModel dx="2048" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#35B3FC;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-38" y="110" width="872" height="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;dashed=1;" parent="1" source="3" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=0.86;entryY=1.031;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;entryPerimeter=0;" parent="1" source="3" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="270" y="470"/>
+                            <mxPoint x="250" y="470"/>
+                            <mxPoint x="250" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=-0.015;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;" parent="1" source="3" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;" parent="1" source="3" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=1.01;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;" parent="1" source="3" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;亞東掛號網站&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF4ED;shadow=0;strokeWidth=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="346" y="440" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontColor=#000000;" parent="1" source="4" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;病人&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF4ED;shadow=0;strokeWidth=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="346" y="270" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;實線&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;訊息呼叫&lt;br&gt;&amp;nbsp;虛線&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;訊息回覆&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;strokeWidth=1;fontSize=20;fontColor=#000000;fillColor=#FCF4ED;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="668" y="702" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;html=1;fontSize=10;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#0A7CFF;dashed=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="697" y="748" as="sourcePoint"/>
+                        <mxPoint x="732" y="748" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="endArrow=classic;html=1;fontSize=10;fontColor=#000000;fillColor=#1ba1e2;strokeColor=#0A7CFF;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="697" y="722" as="sourcePoint"/>
+                        <mxPoint x="732" y="722" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=0.005;entryY=0.671;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;dashed=1;entryPerimeter=0;" parent="1" source="22" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="480"/>
+                            <mxPoint x="330" y="490"/>
+                            <mxPoint x="340" y="490"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;" parent="1" source="22" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;選取掛號科別&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF4ED;shadow=0;strokeWidth=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="135" y="350" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=0.997;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;dashed=1;" parent="1" source="29" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;shape=connector;rounded=1;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;" parent="1" source="29" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=1.005;entryY=0.311;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;dashed=1;" parent="1" source="29" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;選取看診時間&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF4ED;shadow=0;strokeWidth=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="532" y="360" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="32" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;shape=connector;rounded=1;html=1;entryX=1.01;entryY=0.921;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;dashed=1;" parent="1" source="32" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;填寫個人資料&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF4ED;shadow=0;strokeWidth=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="560" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;shape=connector;rounded=1;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=20;fontColor=#000000;endArrow=classic;dashed=1;" parent="1" source="35" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;預約掛號完成&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCF4ED;shadow=0;strokeWidth=1;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="560" width="136" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
